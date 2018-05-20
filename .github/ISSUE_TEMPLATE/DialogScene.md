@@ -10,14 +10,15 @@ Please remember to specify which scene you are reporting,
 this will help a lot for us to manage the scripts.
 
 See example of a translation report:
-https://github.com/shinycolors/sc3-translations/issues/1
+https://github.com/shinycolors/sc3-translations/issues/16
 
 Remove these texts above the line when submitting
 ----
 
 ### Scene translation
-* IDOL_NAME_HERE (e.g. "SR Hiori")
-* SCENE_HERE (e.g. "Produce Start")
+* IDOL_NAME_HERE (e.g. "SR Hiori (CARD_NAME) (see:https://gamewith.jp/shanimas/article/show/97149)")
+* SCENE_HERE (e.g. "Produce Start")(JAPANESE_NAME) 
+(if possibble, can be found below the card page, etc: https://gamewith.jp/shanimas/article/show/100472)
 
 ```
 {
