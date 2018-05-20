@@ -10,7 +10,7 @@ Please remember to specify which scene you are reporting,
 this will help a lot for us to manage the scripts.
 
 See example of a translation report:
-https://github.com/shinycolors/sc3-translations/issues/1
+https://github.com/shinycolors/sc3-translations/issues/16
 
 Remove these texts above the line when submitting
 ----
