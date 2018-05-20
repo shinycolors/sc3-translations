@@ -1,16 +1,17 @@
-import names from './names.json'
+import commonEtc from './common/etc.json'
+import commonNames from './common/names.json'
+import commonProduceStart from './common/produce-start.json'
 
-import produceCommon from './produce-common.json'
-import produceMano from './produce-mano.json'
-import produceHiori from './produce-hiori.json'
-import produceMeguru from './produce-meguru.json'
+import hioriProduceStart from './hiori/produce-start.json'
 
-import hioriEnd from './hiori-end.json'
+import manoProduceStart from './mano/produce-start.json'
+
+import rinzeIdolHonorStudent from './rinze/idol-honor-student.json'
 
 export default []
-  .concat(names.messages)
-  .concat(produceCommon.messages)
-  .concat(produceMano.messages)
-  .concat(produceHiori.messages)
-  .concat(produceMeguru.messages)
-  .concat(hioriEnd.messages)
+  .concat(commonEtc.messages)
+  .concat(commonNames.messages)
+  .concat(commonProduceStart.messages)
+  .concat(hioriTrueEnd.messages)
+  .concat(manoProduceStart.messages)
+  .concat(rinzeIdolHonorStudent.messages)
