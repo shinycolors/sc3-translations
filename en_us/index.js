@@ -13,6 +13,8 @@ import juriProduceStart from './juri/produce-start.json'
 
 import manoProduceStart from './mano/produce-start.json'
 
+import natsuhaProduceStart from './natsuha/produce-start.json'
+
 import rinzeIdolHonorStudent from './rinze/idol-honor-student.json'
 
 import tenkaProduceStart from './tenka/produce-start.json'
@@ -27,5 +29,6 @@ export default []
   .concat(hioriTrueEnd.messages)
   .concat(juriProduceStart.messages)
   .concat(manoProduceStart.messages)
+  .concat(natsuhaProduceStart.messages)
   .concat(rinzeIdolHonorStudent.messages)
   .concat(tenkaProduceStart.messages)
