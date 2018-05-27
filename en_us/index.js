@@ -15,6 +15,8 @@ import manoProduceStart from './mano/produce-start.json'
 
 import rinzeIdolHonorStudent from './rinze/idol-honor-student.json'
 
+import tenkaProduceStart from './tenka/produce-start.json'
+
 export default []
   .concat(commonEtc.messages)
   .concat(commonNames.messages)
@@ -26,3 +28,4 @@ export default []
   .concat(juriProduceStart.messages)
   .concat(manoProduceStart.messages)
   .concat(rinzeIdolHonorStudent.messages)
+  .concat(tenkaProduceStart.messages)
