@@ -1,179 +1,144 @@
 {
-	"messages": [
-		{
-			"ch": "Hazuki",
-			"jp": "今日事務所に来ている子から選んでください\r\nこの間のオーディションに受かった子たちがいますから",
-			"tl": "Today, you have to choose from these girls. They've been accepted for the audition."
-		},
-		{
-			"ch": "Hazuki",
-			"jp": "新しいユニットのメンバーのうちの\r\nひとりになってもらう予定なんですよ",
-			"tl": "We have to find new members for a unit, you're going to make the decision."
-		},
-		{
-			"ch": "Producer",
-			"jp": "そうなんですね、わかりました",
-			"tl": "Ah, really? Understood."
-		},
-		{
-			"ch": "Producer",
-			"jp": "（ん？　あの二つ結びの子……\r\nなんだかこっちを見てるような……）",
-			"tl": "(Hmm? That twin tailed girl... I think she's looking at me...)"
-		},
-		{
-			"ch": "？？？",
-			"jp": "……あっ！　あの時の！",
-			"tl": "...Ah! The time!"
-		},
-		{
-			"ch": "？？？",
-			"jp": "あのっ、私のこと覚えてますか？",
-			"tl": "U-Um, are my senses right?"
-		},
-		{
-			"ch": "Producer",
-			"jp": "え、ええと……",
-			"tl": "U-Ummmmm..."
-		},
-		{
-			"ch": "Producer",
-			"jp": "（この子、見覚えがあるな……たしか……\r\n……そうだ！）",
-			"tl": "(This girl... I think I've seen her before... definitely... that's it!"
-		},
-		{
-			"ch": "Producer",
-			"jp": "オーディションに参加してくれてた、\r\n園田智代子さんだね",
-			"tl": "You're participating in the audition, Chiyoko Sonoda, right?"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "はい！　そうです！　\r\n覚えててもらえて嬉しいですっ",
-			"tl": "Yes! That's right! My senses are right, I'm so happy!"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "あの時は、すごくお世話になって……！\r\nありがとうございました！",
-			"tl": "That time... Thank you so much for your help!"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "私、これから頑張りますねっ",
-			"tl": "From now on, I'll do my best!"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "……って言っても、\r\nデビューはまだまだ先だと思いますけど……えへへ",
-			"tl": "...even when I say that, I know my debut is still far ahead... ehehe~"
-		},
-		{
-			"ch": "Producer",
-			"jp": "（園田さんの笑顔……素朴だけどすごく可愛いな\r\nこの親しみやすさはきっと武器になる）",
-			"tl": "(Sonoda-san's smile... is very cute. Her kindness is a weapon on its own.)"
-		},
-		{
-			"ch": "Producer",
-			"jp": "……園田さん、良かったら\r\n俺がプロデュースするユニットの一員になってくれないか？",
-			"tl": "...Sonoda-san, if it's fine with you, I'm producing a new unit, would you like to join?"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "えぇっ！？\r\n私がですかっ？",
-			"tl": "Eh!? M-Me?"
-		},
-		{
-			"ch": "Producer",
-			"jp": "園田さんの笑顔を見たら\r\nどうしても誘いたい、って思ったんだ",
-			"tl": "After seeing Sonoda-san's smile, I couldn't help to offer you."
-		},
-		{
-			"ch": "Producer",
-			"jp": "急な話かもしれないけど、どうかな？",
-			"tl": "This may have been too sudden, what do you think?"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "で、でもでも、本当に私でいいんですか？\r\n私、全然普通で……！",
-			"tl": "B-but, you're really choosing me? I'm... just bland...!"
-		},
-		{
-			"ch": "Producer",
-			"jp": "普通なんてことはない\r\n持っているものを活かしてくれればいいんだ",
-			"tl": "You aren't bland at all, you are very active and you can make use of that!"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "持っているもの……",
-			"tl": "Make use of..."
-		},
-		{
-			"ch": "Producer",
-			"jp": "園田さんについて、教えてくれないか？",
-			"tl": "Sonoda-san, can you tell me more about you?"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "わかりました！\r\nえっと、えーっと……",
-			"tl": "Understood, Ummmm... Ummm..."
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "私は園田智代子で、女子高生で、\r\n友達からはチョコって呼ばれてて、",
-			"tl": "I'm Chiyoko Sonoda, from an All-Girls High School, my friends call me Choco."
-		},
-		{
-			"ch": "Producer",
-			"jp": "チョコ？",
-			"tl": "Choco?"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "はい！　名前が智代子で、チョコって読めるので、\r\nそういうあだ名が……ん？　チョコ……？",
-			"tl": "Yes! My name is Chiyoko, and it can be shortened to Choko. So my nickname is... Choco...?"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "チョコアイドル、園田智代子！\r\n……なんてどうでしょうか？！",
-			"tl": "Choco Idol, Chiyoko Sonoda! ... Would that work?!"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "私、甘いもの好きですし、ぴったりな気がします！",
-			"tl": "I like sweet things, and they fit me!"
-		},
-		{
-			"ch": "Producer",
-			"jp": "そうだな。いいんじゃないか、チョコアイドル！",
-			"tl": "Is that so. Isn't that nice, Choco Idol!"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "ほんとですか！？　嬉しいです！\r\nチョコアイドルが板につくよう、頑張ります！",
-			"tl": "You think so too!? I'm happy! Choco Idol will work hard to get on the leaderboard!"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "板チョコだけに！",
-			"tl": "The Choco Leaderboard!"
-		},
-		{
-			"ch": "Producer",
-			"jp": "い、板チョコだけに……？",
-			"tl": "Well, only the chocolate board?"
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "はい！　こんな感じでチョコに絡めた台詞が言えたら、\r\nチョコアイドル！　って感じがするかと思って……！",
-			"tl": "Yes! If my lyrics are all about chocolate, I'll be the Choco Idol! That's how I think...!"
-		},
-		{
-			"ch": "Producer",
-			"jp": "う、うーん……",
-			"tl": "Y-Yea.."
-		},
-		{
-			"ch": "Chiyoko",
-			"jp": "よーし……！\r\nそうと決まれば、私、いっぱい考えますね！",
-			"tl": "Alright...! Whatever's your decision, I'll think about it!"
-		}
-	]
+  "messages": [
+    {
+      "jp": "今日事務所に来ている子から選んでください\r\nこの間のオーディションに受かった子たちがいますから",
+      "tl": "Today, you have to choose from these girls. They've been accepted for the audition."
+    },
+    {
+      "jp": "新しいユニットのメンバーのうちの\r\nひとりになってもらう予定なんですよ",
+      "tl": "We have to find new members for a unit, you're going to make the decision."
+    },
+    {
+      "jp": "そうなんですね、わかりました",
+      "tl": "Ah, really? Understood."
+    },
+    {
+      "jp": "（ん？　あの二つ結びの子……\r\nなんだかこっちを見てるような……）",
+      "tl": "(Hmm? That twin tailed girl... I think she's looking at me...)"
+    },
+    {
+      "jp": "……あっ！　あの時の！",
+      "tl": "...Ah! The time!"
+    },
+    {
+      "jp": "あのっ、私のこと覚えてますか？",
+      "tl": "U-Um, are my senses right?"
+    },
+    {
+      "jp": "え、ええと……",
+      "tl": "U-Ummmmm..."
+    },
+    {
+      "jp": "（この子、見覚えがあるな……たしか……\r\n……そうだ！）",
+      "tl": "(This girl... I think I've seen her before... definitely... that's it!"
+    },
+    {
+      "jp": "オーディションに参加してくれてた、\r\n園田智代子さんだね",
+      "tl": "You're participating in the audition, Chiyoko Sonoda, right?"
+    },
+    {
+      "jp": "はい！　そうです！　\r\n覚えててもらえて嬉しいですっ",
+      "tl": "Yes! That's right! My senses are right, I'm so happy!"
+    },
+    {
+      "jp": "あの時は、すごくお世話になって……！\r\nありがとうございました！",
+      "tl": "That time... Thank you so much for your help!"
+    },
+    {
+      "jp": "私、これから頑張りますねっ",
+      "tl": "From now on, I'll do my best!"
+    },
+    {
+      "jp": "……って言っても、\r\nデビューはまだまだ先だと思いますけど……えへへ",
+      "tl": "...even when I say that, I know my debut is still far ahead... ehehe~"
+    },
+    {
+      "jp": "（園田さんの笑顔……素朴だけどすごく可愛いな\r\nこの親しみやすさはきっと武器になる）",
+      "tl": "(Sonoda-san's smile... is very cute. Her kindness is a weapon on its own.)"
+    },
+    {
+      "jp": "……園田さん、良かったら\r\n俺がプロデュースするユニットの一員になってくれないか？",
+      "tl": "...Sonoda-san, if it's fine with you, I'm producing a new unit, would you like to join?"
+    },
+    {
+      "jp": "えぇっ！？\r\n私がですかっ？",
+      "tl": "Eh!? M-Me?"
+    },
+    {
+      "jp": "園田さんの笑顔を見たら\r\nどうしても誘いたい、って思ったんだ",
+      "tl": "After seeing Sonoda-san's smile, I couldn't help to offer you."
+    },
+    {
+      "jp": "急な話かもしれないけど、どうかな？",
+      "tl": "This may have been too sudden, what do you think?"
+    },
+    {
+      "jp": "で、でもでも、本当に私でいいんですか？\r\n私、全然普通で……！",
+      "tl": "B-but, you're really choosing me? I'm... just bland...!"
+    },
+    {
+      "jp": "普通なんてことはない\r\n持っているものを活かしてくれればいいんだ",
+      "tl": "You aren't bland at all, you are very active and you can make use of that!"
+    },
+    {
+      "jp": "持っているもの……",
+      "tl": "Make use of..."
+    },
+    {
+      "jp": "園田さんについて、教えてくれないか？",
+      "tl": "Sonoda-san, can you tell me more about you?"
+    },
+    {
+      "jp": "わかりました！\r\nえっと、えーっと……",
+      "tl": "Understood, Ummmm... Ummm..."
+    },
+    {
+      "jp": "私は園田智代子で、女子高生で、\r\n友達からはチョコって呼ばれてて、",
+      "tl": "I'm Chiyoko Sonoda, from an All-Girls High School, my friends call me Choco."
+    },
+    {
+      "jp": "チョコ？",
+      "tl": "Choco?"
+    },
+    {
+      "jp": "はい！　名前が智代子で、チョコって読めるので、\r\nそういうあだ名が……ん？　チョコ……？",
+      "tl": "Yes! My name is Chiyoko, and it can be shortened to Choko. So my nickname is... Choco...?"
+    },
+    {
+      "jp": "チョコアイドル、園田智代子！\r\n……なんてどうでしょうか？！",
+      "tl": "Choco Idol, Chiyoko Sonoda! ... Would that work?!"
+    },
+    {
+      "jp": "私、甘いもの好きですし、ぴったりな気がします！",
+      "tl": "I like sweet things, and they fit me!"
+    },
+    {
+      "jp": "そうだな。いいんじゃないか、チョコアイドル！",
+      "tl": "Is that so. Isn't that nice, Choco Idol!"
+    },
+    {
+      "jp": "ほんとですか！？　嬉しいです！\r\nチョコアイドルが板につくよう、頑張ります！",
+      "tl": "You think so too!? I'm happy! Choco Idol will work hard to get on the leaderboard!"
+    },
+    {
+      "jp": "板チョコだけに！",
+      "tl": "The Choco Leaderboard!"
+    },
+    {
+      "jp": "い、板チョコだけに……？",
+      "tl": "Well, only the chocolate board?"
+    },
+    {
+      "jp": "はい！　こんな感じでチョコに絡めた台詞が言えたら、\r\nチョコアイドル！　って感じがするかと思って……！",
+      "tl": "Yes! If my lyrics are all about chocolate, I'll be the Choco Idol! That's how I think...!"
+    },
+    {
+      "jp": "う、うーん……",
+      "tl": "Y-Yea.."
+    },
+    {
+      "jp": "よーし……！\r\nそうと決まれば、私、いっぱい考えますね！",
+      "tl": "Alright...! Whatever's your decision, I'll think about it!"
+    }
+  ]
 }
