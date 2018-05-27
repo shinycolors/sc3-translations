@@ -2,6 +2,8 @@ import commonEtc from './common/etc.json'
 import commonNames from './common/names.json'
 import commonProduceStart from './common/produce-start.json'
 
+import amanaProduceStart from './amana/produce-start.json'
+
 import chiyokoProduceStart from './chiyoko/produce-start.json'
 
 import chiyukiProduceStart from './chiyuki/produce-start.json'
@@ -32,6 +34,7 @@ export default []
   .concat(commonEtc.messages)
   .concat(commonNames.messages)
   .concat(commonProduceStart.messages)
+  .concat(amanaProduceStart.messages)
   .concat(chiyokoProduceStart.messages)
   .concat(chiyukiProduceStart.messages)
   .concat(hioriProduceStart.messages)
