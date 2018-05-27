@@ -23,6 +23,8 @@ import mamimiProduceStart from './mamimi/produce-start.json'
 
 import manoProduceStart from './mano/produce-start.json'
 
+import meguruProduceStart from './meguru/produce-start.json'
+
 import natsuhaProduceStart from './natsuha/produce-start.json'
 
 import rinzeIdolHonorStudent from './rinze/idol-honor-student.json'
@@ -45,6 +47,7 @@ export default []
   .concat(koganeProduceStart.messages)
   .concat(mamimiProduceStart.messages)
   .concat(manoProduceStart.messages)
+  .concat(meguruProduceStart.messages)
   .concat(natsuhaProduceStart.messages)
   .concat(rinzeIdolHonorStudent.messages)
   .concat(rinzeProduceStart.messages)
