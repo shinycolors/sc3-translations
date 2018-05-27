@@ -22,6 +22,7 @@ import manoProduceStart from './mano/produce-start.json'
 import natsuhaProduceStart from './natsuha/produce-start.json'
 
 import rinzeIdolHonorStudent from './rinze/idol-honor-student.json'
+import rinzeProduceStart from './rinze/produce-start.json'
 
 import tenkaProduceStart from './tenka/produce-start.json'
 
@@ -40,4 +41,5 @@ export default []
   .concat(manoProduceStart.messages)
   .concat(natsuhaProduceStart.messages)
   .concat(rinzeIdolHonorStudent.messages)
+  .concat(rinzeProduceStart.messages)
   .concat(tenkaProduceStart.messages)
