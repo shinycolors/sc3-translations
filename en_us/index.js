@@ -13,6 +13,8 @@ import juriProduceStart from './juri/produce-start.json'
 
 import kahoProduceStart from './kaho/produce-start.json'
 
+import kirikoProduceStart from './kiriko/produce-start.json'
+
 import mamimiProduceStart from './mamimi/produce-start.json'
 
 import manoProduceStart from './mano/produce-start.json'
@@ -33,6 +35,7 @@ export default []
   .concat(hioriTrueEnd.messages)
   .concat(juriProduceStart.messages)
   .concat(kahoProduceStart.messages)
+  .concat(kirikoProduceStart.messages)
   .concat(mamimiProduceStart.messages)
   .concat(manoProduceStart.messages)
   .concat(natsuhaProduceStart.messages)
