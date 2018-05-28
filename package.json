@@ -1,0 +1,15 @@
+{
+  "name": "sc3-translations",
+  "description": "Dialog translations for THE iDOLM@STER: Shiny Colors",
+  "scripts": {
+    "test": "gulp checks"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-jsonlint": "^1.2.1",
+    "gulp-sequence": "^1.0.0"
+  }
+}
