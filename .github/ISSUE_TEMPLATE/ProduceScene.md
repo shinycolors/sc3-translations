@@ -1,15 +1,15 @@
 ---
-name: Dialog Scene
+name: Produce Idol Events
 about: For dialog scenes that need translation
 
 ---
 
 NOTES
-Thank you for trying to submit a dialog scene transcript.
-Please remember to specify which scene you are reporting,
+Thank you for trying to submit a Produce Idol Event transcript.
+Please remember to specify which Event you are reporting,
 this will help a lot for us to manage the scripts.
 
-See example of a translation report:
+See example of a Event translation report:
 https://github.com/shinycolors/sc3-translations/issues/16
 
 Remove these texts above the line when submitting
@@ -17,8 +17,7 @@ Remove these texts above the line when submitting
 
 ### Scene translation
 * IDOL_NAME_HERE (e.g. "SR Hiori (CARD_NAME) (see:https://gamewith.jp/shanimas/article/show/97149)")
-* SCENE_HERE (e.g. "Produce Start")(JAPANESE_NAME) 
-(if possibble, can be found below the card page, etc: https://gamewith.jp/shanimas/article/show/100472)
+* SCENE_HERE (e.g. "Produce Start")(EVENT_JAPANESE_NAME (if possible)) 
 
 ```
 {
