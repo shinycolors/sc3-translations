@@ -33,6 +33,8 @@ import rinzeProduceStart from './rinze/produce-start.json'
 
 import tenkaProduceStart from './tenka/produce-start.json'
 
+import sakuyaProduceStart from './sakuya/produce-start.json'
+
 export default []
   .concat(commonEtc.messages)
   .concat(commonNames.messages)
@@ -54,3 +56,4 @@ export default []
   .concat(rinzeIdolHonorStudent.messages)
   .concat(rinzeProduceStart.messages)
   .concat(tenkaProduceStart.messages)
+  .concat(sakuyaProduceStart.messages)
