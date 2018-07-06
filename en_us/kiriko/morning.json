@@ -1,0 +1,70 @@
+{
+  "messages": [
+    {
+      "jp": "お、今日も早いな\r\n霧子って遅刻もしないし、朝に強いよな",
+      "tl": "Oh, you're pretty early, Yukiko. You're not late in fact you look nice."
+    },
+    {
+      "jp": "は、はい……",
+      "tl": "Y-Yes..."
+    },
+    {
+      "jp": "目覚ましを……\r\nた、たくさん……かけてるので……",
+      "tl": "I have an alarm... so I c-could... wake up early..."
+    },
+    {
+      "jp": "(霧子は朝起きるために頑張ってるみたいだ……)",
+      "tl": "(I need to cheer up Kiriko for waking up so early...)"
+    },
+    {
+      "jp": "え、偉いだなんて……そんな……\r\n何が起こるか……わからないので……",
+      "tl": "Eh, it's n-not something... special... I don't really know... what will happen..."
+    },
+    {
+      "jp": "できるだけ早く……準備しておかなきゃ、です……！",
+      "tl": "I want to be prepared... as soon as possible...!"
+    },
+    {
+      "jp": "（よし、楽しく話せたな）",
+      "tl": "(Alright, that was a nice talk)"
+    },
+    {
+      "jp": "寒い日とか……ちょっとつらいです……",
+      "tl": "It's a cold day... it was a bit hard..."
+    },
+    {
+      "jp": "でも……遅刻しちゃうかもって思うより……\r\n早く起きたほうが、落ち着くので……！",
+      "tl": "But... instead of thinking about being late... I wanted to wake up early to prepare...!"
+    },
+    {
+      "jp": "（まぁ、普通に話せたかな）",
+      "tl": "(Well, that was a normal talk)"
+    },
+    {
+      "jp": "た、たまに……\r\n寝ぼけることもあります……",
+      "tl": "S-Sometimes... I can sleep well..."
+    },
+    {
+      "jp": "お布団の中で……\r\nいくつも……目覚ましを抱っこしてたり……",
+      "tl": "In my futon... sometimes... hugging the alarm..."
+    },
+    {
+      "jp": "（うっ……しまった。別のことを言えば良かったな……）",
+      "tl": "(... I messed up. I wish I could have said something else...)"
+    }
+  ],
+  "choices": [
+    {
+      "jp": "寝ぼけることは？",
+      "tl": "Did you sleep well?"
+    },
+    {
+      "jp": "えらいな",
+      "tl": "That's nice"
+    },
+    {
+      "jp": "つらい日もあるか？",
+      "tl": "Is is like that everyday?"
+    }
+  ]
+}

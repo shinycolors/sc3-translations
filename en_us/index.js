@@ -16,6 +16,7 @@ import juriProduceStart from './juri/produce-start.json'
 import kahoProduceStart from './kaho/produce-start.json'
 
 import kirikoProduceStart from './kiriko/produce-start.json'
+import kirikoMorning from './kiriko/morning.json'
 import kirikoUnknown from './kiriko/unknown.json'
 
 import koganeProduceStart from './kogane/produce-start.json'
@@ -47,6 +48,7 @@ export default []
   .concat(juriProduceStart.messages)
   .concat(kahoProduceStart.messages)
   .concat(kirikoProduceStart.messages)
+  .concat(kirikoMorning.messages)
   .concat(kirikoUnknown.messages)
   .concat(koganeProduceStart.messages)
   .concat(mamimiProduceStart.messages)
