@@ -1,6 +1,8 @@
 # sc3-translations
 Dialog translations for THE iDOLM@STER: Shiny Colors
 
+**WE ARE IN NEED OF TRANSLATORS**
+
 When submitting scripts to translate or to be reviewed please state if it's:
 1) Produce Idol / Support Idol / Morning Scene
 2) The type of Card: https://gamewith.jp/shanimas/article/show/97149
